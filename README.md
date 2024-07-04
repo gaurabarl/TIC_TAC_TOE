@@ -1,4 +1,5 @@
 # Tic Tac Toe Game Explanation
+
 # Introduction
 This Tic Tac Toe game is implemented in C and played on the console. The game supports two players who take turns marking the cells in a 3x3 grid with 'X' or 'O'. The player who succeeds in placing three of their marks in a row, either horizontally, vertically, or diagonally, wins the game.
 
